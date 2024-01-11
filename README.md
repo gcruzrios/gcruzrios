@@ -3,7 +3,7 @@
 - Working on NetCore 6 to make minimal APIs MSSSQ, MySQL, PostgreSQL & Mongo
 - 🌱 I’m currently learning PHP 7.x (Laravel / Symphony)
 - 💞️ I’m looking to collaborate on Node Projects
-- 📫 How to reach me <gcruzr@gmail.com> or <greivin.cruz@geoinn.com>
+- 📫 How to reach me <gcruzr@gmail.com> or <gcruz@geotecnologias.com>
 
 <!---
 gcruzrios/gcruzrios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
