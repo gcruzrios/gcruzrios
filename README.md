@@ -3,7 +3,7 @@
 - Working on NetCore 6 to make minimal APIs MSSSQ, MySQL, PostgreSQL & Mongo
 - 🌱 I’m currently learning PHP 7.x (Laravel / Symphony)
 - 💞️ I’m looking to collaborate on Node Projects
-- 📫 How to reach me <gcruzr@gmail.com> or <gcruz@geotecnologias.com>
+- 📫 How to reach me <gcruzr@gmail.com> or <gcruz@progra.dev>
 - Visit my site www.gcruzrios.com
 
 <!---
