@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gcruzrios
-- 👀 I’m interested in Javascript (Python, React JS, Node js)
+- 👀 I’m interested in AI Development in Javascript, Python, React JS, Node js and more
 - Working on Net to make minimal APIs MSSSQ, MySQL, PostgreSQL & Mongo
 - 🌱 I’m currently learning PHP 8.x (Laravel / Symphony)
 - 💞️ I’m looking to collaborate on Node Projects
